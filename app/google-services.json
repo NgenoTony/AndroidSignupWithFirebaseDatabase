@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "724111999632",
+    "firebase_url": "https://fisiaapp.firebaseio.com",
+    "project_id": "fisiaapp",
+    "storage_bucket": "fisiaapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724111999632:android:51b7edef0f71cc19",
+        "android_client_info": {
+          "package_name": "com.example.tonyngeno.hairsalke"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724111999632-2akvpu69jkdfkdes3295hmjrqn8mhdds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSvjvpMOSuzHv-CzN2Mg2t3d83Vrk4ujU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
